@@ -1,0 +1,243 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.insta_logo {
+  width: 200px;
+  height: 60px;
+  margin-left: 150px;
+  background-color: white;
+}
+.title {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  border-bottom: 2px solid rgba(211, 214, 216, 0.493);
+  background-color: white;
+}
+.search {
+  margin-left: 300px;
+  border: 1px solid rgba(211, 214, 216, 0.664);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 270px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  height: 30px;
+  background-color: rgba(248, 250, 252, 0.918);
+
+  border-radius: 5%;
+}
+
+div .fas fa-search {
+  padding-right: 5px;
+  color: white;
+}
+.nsearch {
+  padding: 0%;
+  margin-left: 5px;
+}
+.icons {
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+  height: 60px;
+  font-size: 35px;
+  margin-inline-start: 130px;
+  align-items: center;
+  background-color: white;
+}
+
+.far fa-compass {
+  background-color: white;
+}
+.far fa-heart {
+  background-color: white;
+}
+.far fa-user {
+  background-color: white;
+}
+.propic {
+  margin-inline-start: 120px;
+  margin-right: 180px;
+}
+
+.pic {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+}
+.second {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  float: left;
+  margin-left: 150px;
+  clear: right;
+}
+.profile {
+  clear: right;
+  margin-left: 2px;
+  float: left;
+}
+.id {
+  margin-right: 20px;
+  text-align: left;
+  font-size: 25px;
+}
+.pro {
+  margin-right: 20px;
+  padding: 5px 10px 5px 10px;
+  border: 1.5px solid rgba(224, 228, 231, 0.801);
+  border-radius: 12%;
+}
+.upload {
+  margin-right: 20px;
+}
+.follower {
+  margin-right: 20px;
+}
+.follow {
+}
+.name {
+}
+.numone {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 20px;
+  text-align: left;
+}
+.numtwo {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.numthree {
+  margin-top: 20px;
+}
+.story {
+  display: flex;
+  justify-content: center;
+  clear: left;
+  margin-top: 50px;
+  float: left;
+  margin-left: 230px;
+}
+.storyone {
+  display: block;
+  text-align: left;
+  margin-right: 50px;
+}
+.strone {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  border: 1.5px solid rgba(205, 206, 207, 0.918);
+  padding: 3px;
+}
+.storytwo {
+  display: block;
+}
+.strtwo {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  border: 1.5px solid rgba(205, 206, 207, 0.918);
+  padding: 3px;
+}
+.release {
+  text-align: center;
+}
+.seoul {
+  text-align: center;
+}
+.contents {
+  display: block;
+  width: auto;
+  height: auto;
+
+  clear: right;
+  clear: left;
+}
+.buttons {
+  padding-top: 110px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.up {
+  width: 140px;
+  height: auto;
+
+  padding: 15px 20px 15px 20px;
+
+  border-top: 1.5px solid gray;
+}
+.IGTV {
+  width: 140px;
+  height: auto;
+
+  padding: 15px 20px 15px 20px;
+  border-top: 1.5px solid rgba(205, 206, 207, 0.918);
+}
+.restore {
+  width: 140px;
+  height: auto;
+
+  border-top: 1.5px solid rgba(205, 206, 207, 0.918);
+  padding: 15px 20px 15px 20px;
+}
+.tagged {
+  width: 140px;
+  height: auto;
+
+  border-top: 1.5px solid rgba(205, 206, 207, 0.918);
+  padding: 15px 20px 15px 20px;
+}
+
+.picc {
+  width: 370px;
+  height: 370px;
+  padding-left: 20px;
+}
+.lineone {
+  margin-top: 30px;
+
+  clear: right;
+  display: flex;
+  justify-content: center;
+}
+.picone {
+  width: 370px;
+  height: 370px;
+  padding: 0;
+}
+
+.linetwo {
+  margin-top: 30px;
+  clear: left;
+  clear: right;
+  margin-inline-start: 205px;
+}
+
+body {
+  background-color: rgba(248, 250, 252, 0.918);
+}
+
+.fa-clone.picone {
+  position: absolute;
+  left: 547px;
+  top: 635px;
+}
+.fa-clone.pictwo {
+  position: absolute;
+  left: 915px;
+  top: 635px;
+}
