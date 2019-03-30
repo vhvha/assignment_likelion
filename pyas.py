@@ -1,3 +1,32 @@
+# practice 1
+p = ['Life', ' is', 'too', 'short']
+
+print(" ".join(p))
+
+# practice 2
+# 결과값은 'shirt'
+
+# practice 3
+
+i = 1
+while i <= 4:
+    print('*'*i)
+    i += 1
+
+# practice 4
+
+
+s = 'mutzangesazachurum'
+
+count = 0
+
+for i in range(0, len(s)):
+    if s[i] == 'a' or s[i] == 'e' or s[i] == 'i' or s[i] == 'o' or s[i] == 'u':
+        count += 1
+
+print(count)
+
+
 # 1-1
 
 sum = 0
